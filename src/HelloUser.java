@@ -3,7 +3,7 @@ import java.io.IOException;
 public class HelloUser {
 
 	public static void main(String[] args) {	
-    System.out.println("Hello ASE2017 - How are you? :)");
+    System.out.println("Hello ASE2017 - How are you now? :)");
 	System.out.println("Please enter your name: ");
 	byte buffer[] = new byte[80];
 	String input = "";
